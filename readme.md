@@ -1,5 +1,7 @@
 # InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning
 
+This is not an official repository, reproduce based on the [link](https://github.com/NUS-HPC-AI-Lab/InfoBatch) and the paper.
+
 <a href="https://arxiv.org/abs/2303.04947">
   <img src="https://img.shields.io/badge/arXiv-2311.05858-b31b1b.svg?style=solid" alt="arXiv">
 </a>
