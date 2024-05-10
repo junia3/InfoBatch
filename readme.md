@@ -1,4 +1,12 @@
-# InfoBatch Implementation for CIFAR10/100 Datasets
+# InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning
+
+<a href="https://arxiv.org/abs/2303.04947">
+  <img src="https://img.shields.io/badge/arXiv-2311.05858-b31b1b.svg?style=solid" alt="arXiv">
+</a>
+
+<p align="center">
+  <img src="https://github.com/junia3/InfoBatch/assets/79881119/1c8beead-a337-4335-9d0b-b33903e09901", width=1000>
+</p>
 
 I provide a README document for easier understanding of my implementation.  
 The ```index of this document``` is as follows:
